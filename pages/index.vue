@@ -1,5 +1,6 @@
 <template>
   <div>
-    <NuxtPage />
+    <Button>Click me</Button>
   </div>
 </template>
+
