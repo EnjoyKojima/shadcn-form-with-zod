@@ -10,7 +10,6 @@
   },
   "framework": "nuxt",
   "aliases": {
-    "components": "@/components",
-    "utils": "@/lib/utils"
+    "components": "@/components"
   }
 }
